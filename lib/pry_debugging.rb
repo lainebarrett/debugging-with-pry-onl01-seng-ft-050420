@@ -1,6 +1,4 @@
-def plus_two(num)
+def plus_three(num)
 	num + 2
-	num
-	num
 	num
 end
